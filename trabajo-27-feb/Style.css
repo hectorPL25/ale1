@@ -1,0 +1,17 @@
+body {
+    background-color:ur1(https://www.elfinanciero.com.mx/resizer/5X1gSskEujEhCmV55IXmM60drtA=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EQ46P2YKHZDUZMEH5FNMBLNQTM.jpeg);
+    font-family:'Gill Sans','Gill Sans MS',Calibri,'Trebuchet MS';
+}
+h1{
+    color:black;
+}
+th{
+   background-color: black; 
+}
+table{
+margin-left: 320px;
+}
+img{
+    margin:45px 45px 45px;
+}
+titulo{}
