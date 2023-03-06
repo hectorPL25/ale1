@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://media.istockphoto.com/vectors/taco-running-with-foam-finger-vector-id534976329?k=20&m=534976329&s=612x612&w=0&h=mHtNIYmNYvPMadGv_URTJCrsN7q5Fs17IHinAD69J0I=");
+    background-position: center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    background-color: url("https://media.istockphoto.com/vectors/taco-running-with-foam-finger-vector-id534976329?k=20&m=534976329&s=612x612&w=0&h=mHtNIYmNYvPMadGv_URTJCrsN7q5Fs17IHinAD69J0I=");
+    font-family:'Gill Sans','Gill Sans MS',Calibri,'Trebuchet MS';
+}
+h1 {
+    color:black;
+}
+th{
+   background-color: black; 
+}
+table{
+margin-left: 320px;
+}
+img{
+    margin: 45px 45px 45px; 
+}
+titulo {
+font-family:320px ;
+font-size: 100px ;
+ color:black;
+text-align:center center;
+}
+
