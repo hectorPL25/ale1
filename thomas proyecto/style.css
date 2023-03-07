@@ -26,4 +26,7 @@ font-size: 100px ;
  color:black;
 text-align:center center;
 }
-
+.order-table {
+    min-width:auto;
+    /*display:none;*/
+}
